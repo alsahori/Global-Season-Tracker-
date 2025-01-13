@@ -1,12 +1,11 @@
 #include <iostream>
 using namespace std;
 
-//PART 2
+
 //function prototype
 string season(int month, int day,double latitude);
 
 
-	//main function
 int main() {
 
 
